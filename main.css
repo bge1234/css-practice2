@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  overflow: hidden;
+}
+
+header {
+  background: #102132;
+  width: 100vw;
+  height: 50px;
+  position: fixed;
+  top: 0;
+}
+
+main {
+  background: #FF0000;
+  width: 100vw;
+  height: 100vh;
+  padding-top: 200px;
+}
+
+.middle {
+  width: 400px;
+  height: 100px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  border: solid 2px yellow;
+}
+
+.odd, .even {
+  width: 25%;
+  height: 100%;
+  position: relative;
+  display: inline;
+  float: left;
+}
+
+.odd {
+  background: #2C9913;
+}
+
+.even {
+  background: #13AB28;
+}
+
+footer {
+  background: #878888;
+  width: 100vw;
+  height: 50px;
+  position: fixed;
+  bottom: 0;
+}
