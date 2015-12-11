@@ -1,0 +1,9 @@
+{
+  "firebase": "css-practice2-benebel",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
