@@ -23,7 +23,6 @@ main {
   height: 100px;
   box-sizing: border-box;
   margin: 0 auto;
-  border: solid 2px yellow;
 }
 
 .odd, .even {
