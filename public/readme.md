@@ -1,0 +1,3 @@
+- CSS responsiveness practice
+- Deployed app: https://css-practice2-benebel.firebaseapp.com
+- To run locally: `open public/index.html`
